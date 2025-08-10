@@ -513,4 +513,4 @@ with tab3:
 
 # Footer
 st.markdown("---")
-st.caption("© 2024 Sistema de IA para Gestión Pública - Universidad de Innovación Ciudadana")
+st.caption("© 2025 Desarrollado por Wilton Torvisco")
